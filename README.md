@@ -52,7 +52,7 @@ To install Vijaya:
    sudo python3 vijaya.py  
    ```
 4. Output:
-   ```
+ """
    
                                        ..
                                      .^~!~^
@@ -123,7 +123,7 @@ High-performance tool for efficient challenge analysis and transformation.
    [00] Exit the vijaya
 vjya > select > 
 
-   ```
+   """
 
 ## License
 
