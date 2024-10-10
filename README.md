@@ -1,5 +1,5 @@
 # VIJAYA-FARMWORK
-![Vijaya Logo](log.png)
+![Vijaya Logo](logo.png)
 
 A comprehensive **Penetration Testing Framework** that provides access to every script a hacker might need. Vijaya is designed to simplify the process of hacking by offering a wide range of tools in one place. The framework works seamlessly with both Python 2 and Python 3, making it flexible and easy to use across different environments.
 
